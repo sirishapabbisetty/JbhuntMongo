@@ -1,0 +1,12 @@
+#Mongo DB Connection Details
+mongodb:
+  url: mongodb://localhost:27017
+  db: siri
+  databasename: siri
+  collectionname: customers
+logging:
+  file: "E:/JbhuntMongo/logs/applicationlogs.log"
+  level:
+    com.spring.SpringBootApp: WARN
+server:
+  port: 8900

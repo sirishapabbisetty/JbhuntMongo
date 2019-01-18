@@ -24,6 +24,7 @@ public class SpringBootApp extends SpringBootServletInitializer {
 //		System.setProperty("spring.config.location","E:\\JbhuntMongo\\src\\main\\resources\\application.yml");
 //	}
 //	private static final org.slf4j.Logger log = org.slf4j.LoggerFactory.getLogger(SpringBootApp.class);
+	//private static final
 
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder applicationBuilder)
 	{
